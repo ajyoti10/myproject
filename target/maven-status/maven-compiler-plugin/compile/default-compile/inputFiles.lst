@@ -1,0 +1,15 @@
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/dto/BaseResponseDTO.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/exception/InvalidParameterException.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/service/impl/StudentServiceImpl.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/exception/DemoException.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/enums/CalssSectionEnum.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/controller/StudentController.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/repository/StudentRepository.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/dto/ErrorDTO.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/dto/CreateStudentRequestDTO.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/MyprojectApplication.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/service/IStudentService.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/controller/impl/StudentControllerImpl.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/enums/ErrorCode.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/entity/StudentEntity.java
+/var/www/html/crm-service/myproject/src/main/java/com/myproject/demo/config/AppConfig.java
